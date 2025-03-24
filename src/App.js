@@ -5,6 +5,7 @@ import Admin from './components/Admin';
 import UseStatePrimitive from './components/UseStatePrimitive';
 import Event from './components/Event';
 
+
 //This is a module class from javascript.This is a parent component same as app.component.
 //JSX Syntax:- It's when we write the HTML like syntax/code inside function.
 //Old version of react uses class based component.
